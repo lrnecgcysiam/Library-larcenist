@@ -1,7 +1,6 @@
 ---
 title: Introduction
 date: Last Modified
-section: introduction
 permalink: /
 eleventyNavigation:
   key: Introduction
