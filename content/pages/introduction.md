@@ -1,9 +1,10 @@
 ---
 title: Introduction
 date: Last Modified
+section: introduction
 permalink: /
 eleventyNavigation:
-  key: Hello
+  key: Introduction
   order: 0
   title: Introduction
 ---
