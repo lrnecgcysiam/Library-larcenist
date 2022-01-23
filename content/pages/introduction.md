@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: Last Modified
-permalink: /
+permalink: /introdutions/index.html
 eleventyNavigation:
   key: Introduction
   order: 0
