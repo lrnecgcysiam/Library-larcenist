@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /the-early-years/index.html
 eleventyNavigation:
   key: beforeY2K
-  order: 0
+  order: 3
   title: beforeY2K
 ---
 

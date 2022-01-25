@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /dedication/index.html
 eleventyNavigation:
   key: Dedication
-  order: 0
+  order: 2
   title: Dedication
 ---
 ## Dedication
