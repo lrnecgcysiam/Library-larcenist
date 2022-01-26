@@ -8,4 +8,4 @@ eleventyNavigation:
   title: Direct Care Service Provider
 ---
 
-{% image "adaptive-aquatics-sbu-ucp_03.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" %}
+{% image "adaptive-aquatics-sbu-ucp_00.blurred.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" %}
