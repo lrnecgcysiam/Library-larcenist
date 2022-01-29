@@ -8,7 +8,7 @@ eleventyNavigation:
   title: Direct Care Service Provider
 ---
 
-{% image "adaptive-aquatics-sbu-ucp_00.blurred.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" "30px" %}
+{% image "adaptive-aquatics-sbu-ucp_00.blurred.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" "100px" %}
 
 
 ### Heading out to Stony Brook Adaptive Aquatics Ceremony 2007
