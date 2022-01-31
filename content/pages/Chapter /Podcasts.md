@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
   title: Podcasting
 ---
-
+{% image "podcasting.JPG" "Podcasts I have created." "300px" %}
 
 ## Creating Podcasts to make more content.
 
