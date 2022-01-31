@@ -8,7 +8,7 @@ eleventyNavigation:
   title: Visiting Japan
 ---
 
-{% image "Japan.Defense.Force.fujisan.jpg" "Me and my Brother on Mt Fuji Summer 2009 with Kensuke Ueoka" %}
+{% image "Japan.Defense.Force.fujisan.jpg" "Me and my Brother on Mt Fuji Summer 2009 with Kensuke Ueoka" "300px" %}
 
 ### Traveling to Japan for the first time.
 
