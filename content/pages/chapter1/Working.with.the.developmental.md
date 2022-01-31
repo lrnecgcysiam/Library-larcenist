@@ -24,7 +24,7 @@ Long Island was pretty popular for housing individuals with disabilities the job
 One of the popular Job titles was Direct Care Supprt Specialist, another one was Menth health Therapy Aide. As an aide you would provide support the program's participants with washing, feeding, dressing, administering medication and teaching during the duration of your shift. You also was required to attend any social event they had scheduled. John was one of my favorite people to work with. He loved wrestling and Baseball and although he had a difficult speaking you learned how to understand him with out him being able to fully speak.
 
 
-{% image "adaptive-aquatics-sbu-ucp_01.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" %}
+{% image "adaptive-aquatics-sbu-ucp_01.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" "300px" %}
 
 ### Us and John with his Program Instructors during the dinner ceremony
 
@@ -32,7 +32,7 @@ This Job required you to be fully hands on with your job. I worked at least 40 -
 
 The job was pretty sweet it allowed me to be thankful for all I had in my life and made me strive to be a better human being. Managers were nice and some were not so nice but I learned from all of them. There was a time I wanted to become a Registered Nurse I even got into the Nursing Program before dropping out and pursuing a degree as a in at Stony Brook's College of Engineered and Applied Sciences. I will save that for another chapter. If you would like to bookmark that page I will create is [here.]()
 
-{% image "adaptive-aquatics-sbu-ucp_02.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" %}
+{% image "adaptive-aquatics-sbu-ucp_02.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" "300px" %}
 
 ### My Final Years in the Mental Health Field (2011 - 2015).
 
