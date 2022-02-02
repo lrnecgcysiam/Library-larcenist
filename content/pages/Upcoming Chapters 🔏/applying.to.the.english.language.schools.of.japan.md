@@ -1,5 +1,5 @@
 ---
-title: Applying to Japan English Teaching Jobs (2006 - 2010) 
+title: Applying to Japan English Teaching Jobs (2006 - 2010) 🔏
 date: Last Modified 
 permalink: /teaching-english-in-japan/index.html
 eleventyNavigation:
