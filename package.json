@@ -1,5 +1,5 @@
 {
-  "name": "spacebook",
+  "name": "theBook",
   "version": "1.0.0",
   "description": "A simple site generator based on Eleventy, Tailwind 2.0, and Alpine.js",
   "scripts": {
