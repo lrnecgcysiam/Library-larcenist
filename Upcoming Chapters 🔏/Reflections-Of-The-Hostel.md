@@ -1,11 +1,11 @@
 ---
-title: Applying to Japan English Teaching Jobs (2006 - 2010) 🔏
+title: Reflections of the Hostel (2010 - 2011) 🔏
 date: Last Modified 
-permalink: /teaching-english-in-japan/index.html
+permalink: /Reflections of the Hostel.html
 eleventyNavigation:
   key: 
   order: 1
-  title: Applying to teaching english jobs 🔏
+  title: Reflections of the Hostel (2010 - 2011) 🔏
 ---
 
 ## Coming Soon 🔏
