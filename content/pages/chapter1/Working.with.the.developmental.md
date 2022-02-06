@@ -17,7 +17,7 @@ Working at UCP I was privileged to help people participants like John here atten
 
 The Adaptive Aquatics is a program that uses water as a medium for the rehabilitation of a great variety of muscular, neuromuscular adn neurological problems. The sessions required John to improve his range of motion and strength and he really enjoyed being with his instructors. The session was held at the Stony Brook University Pool at night.
 
-### Working with people with disabilities full time in Suffolk County
+## Working with people with disabilities full time in Suffolk County
 
 Long Island was pretty popular for housing individuals with disabilities the jobs that was available was normally providing direct care to these individauls in a group home setting. I worked in this field from 2001 - 2015 at various differently locations and organizations. I will update my [linkedin](https://www.linkedin.com/in/cksamuel/) with more detailed information about the organizations I worked at but it was been well over a decade since I have worked at such places.
 
@@ -26,7 +26,7 @@ One of the popular Job titles was Direct Care Supprt Specialist, another one was
 
 {% image "adaptive-aquatics-sbu-ucp_01.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" "300px" %}
 
-### Us and John with his Program Instructors during the dinner ceremony
+## Us and John with his Program Instructors during the dinner ceremony
 
 This Job required you to be fully hands on with your job. I worked at least 40 - 50 hours a week at this job. Then I occasionally worked a night shift at another organization where I would care for one individual who was non-disabled but just a bit handicapped and needed his [Colostomy bag](https://en.wikipedia.org/wiki/Colostomy)replaced in the morning as he prepared for the day. I was just awake to make sure he didn't have any problems at night getting to and from the bathroom.
 
@@ -34,7 +34,7 @@ The job was pretty sweet it allowed me to be thankful for all I had in my life a
 
 {% image "adaptive-aquatics-sbu-ucp_02.blurred.jpg" "Us and John with his Instrutors UCP Adaptive Aquatics Ceremony 2007" "300px" %}
 
-### My Final Years in the Mental Health Field (2011 - 2015).
+## My Final Years in the Mental Health Field (2011 - 2015).
 
 The last 4 years of me being in Mental Health field I struggled with my [Uncle](https://youtube.com/playlist?list=PL5g7QhlUlSJRyCUev1ChUV9c7i8RFZAeA) passing away suddenly who really influenced me within my family to work more with computers and trying to overcome a [Divorce]() that I did not see coming at all, and [Job Layoffs | NAPW]() and [Administrative Leave | LIDDSO](). I will talk more about each one in a seperate post in the future. I really believe this was because I was very close to finishing my 2nd Bachelor degree at Stony Brook University. It felt almost as if the Universe was against my wishes to evolve but I persevered and those problems.
 
