@@ -1,11 +1,11 @@
 ---
-title: Reflections of the Hostel (2010 - 2011) 🔏
+title: The Hostel (2010 - 2011) 🔏
 date: Last Modified 
-permalink: /Reflections of the Hostel.html
+permalink: /upcoming-chapters/hostel-reflections.html
 eleventyNavigation:
-  key: 
-  order: 1
-  title: Reflections of the Hostel (2010 - 2011) 🔏
+  key: The Hostel (2010 - 2011) 🔏
+  order: 30
+  parent: Upcoming Chapters 🔏
 ---
 
 ## Coming Soon 🔏
