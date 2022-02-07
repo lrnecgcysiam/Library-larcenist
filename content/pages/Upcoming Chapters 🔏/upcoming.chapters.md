@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 10 
 ---
 
-* [Editing content](/tips-and-tricks/editing/)
+* [Applying to Japan English Teaching Jobs (2006 - 2010) 🔏](/upcoming-chapters/english-teaching-japan/)
 * [Working with images](/tips-and-tricks/images/)
 * [Working with links](/tips-and-tricks/links/)
 * [Working with embeds](/tips-and-tricks/embeds/)
