@@ -5,6 +5,7 @@ permalink: /Mental-Health-Field/index.html
 eleventyNavigation:
   key: Mental Health
   order: 1
+  parent: Chapter 1
   title: Direct Care Service Provider
 ---
 
