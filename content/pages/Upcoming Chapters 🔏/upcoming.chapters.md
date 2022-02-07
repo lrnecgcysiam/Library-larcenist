@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /upcoming-chapters/index.html
 comments: 0
 eleventyNavigation:
- key: Upcoming Chapters 🔏
+  key: Upcoming Chapters 🔏
   title: Upcoming Chapters 🔏
   order: 10 
 ---
