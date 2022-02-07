@@ -1,11 +1,11 @@
 ---
-title: Reflections of a divorce I Never really wanted 🔏
+title: Reflections After my Divorce 🔏
 date: Last Modified 
-permalink: /stkitts-justice-the-ebony-way/index.html
+permalink: /upcoming-chapters/stkitts-justice/index.html
 eleventyNavigation:
   key: 
-  order: 1
-  title: Reflections of a divorce I Never really wanted  🔏
+  order: 45
+  parent: Upcoming Chapters 🔏
 ---
 
 ## Coming Soon 🔏
