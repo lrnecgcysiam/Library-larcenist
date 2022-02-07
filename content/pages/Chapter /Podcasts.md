@@ -5,7 +5,7 @@ permalink: /podcasting/index.html
 eleventyNavigation:
   key: 
   order: 1
-parent: Chapter 1
+  parent: Chapter 1
   title: Podcasting
 ---
 {% image "podcasting.JPG" "Podcasts I have created." "300px" %}
