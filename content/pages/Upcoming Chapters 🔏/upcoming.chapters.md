@@ -1,7 +1,7 @@
 ---
 title: Upcoming Chapters 🔏
 date: Last Modified
-permalink: /upcoming-chapter/index.html
+permalink: /upcoming-chapters/index.html
 comments: 0
 eleventyNavigation:
  key: Upcoming Chapters 🔏
