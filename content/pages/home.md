@@ -1,11 +1,11 @@
 ---
-title: The Obligatory Autobiography Book
+title: The Book
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: Home 
   order: 0
-  title: The Obligatory Autobiography Book.
+  title: The Book
 ---
 
 
