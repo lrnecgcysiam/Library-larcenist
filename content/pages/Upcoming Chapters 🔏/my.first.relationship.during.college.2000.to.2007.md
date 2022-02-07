@@ -1,11 +1,11 @@
 ---
-title: Reflections of leaving my relationship after 3,285 days of commitment 🔏
+title: A Relationship after 3285 days 🔏
 date: Last Modified 
-permalink: /uevol1101-raincoats-weather/index.html
+permalink: /upcoming-chapters/uevol1101-raincoats-weather/index.html
 eleventyNavigation:
-  key: 
-  order: 1
-  title: Reflections of leaving my relationship after 3,285 days of commitment 🔏
+  key: A Relationship after 3285 days 🔏
+  order: 35
+  parent: Upcoming Chapters 🔏
 ---
 
 ## Coming Soon 🔏
