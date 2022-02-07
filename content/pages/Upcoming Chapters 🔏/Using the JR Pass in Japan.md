@@ -1,11 +1,11 @@
 ---
-title: What is the JR Pass and using it in Japan ? 🔏
+title: The JR Pass 🔏
 date: Last Modified 
-permalink: /japan-rail-pass/index.html
+permalink: Upcoming-Chapters/japan-rail-pass/index.html
 eleventyNavigation:
-  key: 
-  order: 1
-  title: What is the JR Pass and using it in Japan 🔏
+  key:  The JR Pass 🔏
+  order: 40
+  parent: Upcoming Chapters  
 ---
 
 ## Coming Soon 🔏

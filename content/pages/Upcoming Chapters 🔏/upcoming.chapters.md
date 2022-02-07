@@ -11,4 +11,5 @@ eleventyNavigation:
 
 * [Teaching English(2006 - 2010) 🔏](/upcoming-chapters/english-teaching-japan/)
 * [400 Days without pay 🔏](/upcoming-chapters/working-liddso/)
-* [Backing (2008)](/upcoming-chapters/euro-trip-2008/)
+* [Backing (2008) 🔏](/upcoming-chapters/euro-trip-2008/)
+* []()
