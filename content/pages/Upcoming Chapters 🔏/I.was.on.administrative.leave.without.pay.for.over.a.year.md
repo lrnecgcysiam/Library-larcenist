@@ -1,11 +1,12 @@
 ---
-title: Being on Administrative leave without pay for 400 days 🔏
+title: 400 days without pay 🔏
 date: Last Modified 
-permalink: /being-on-administrative-leave-liddso/index.html
+permalink: /upcoming-chapters/working-liddso/index.html
+toc: true
 eleventyNavigation:
-  key: 
-  order: 1
-  title: Being on Administrative leave without pay for 400 days 🔏
+  key: 400 days without pay 
+  order: 20
+  parent: Upcoming Chapters 🔏
 ---
 
 ## Coming Soon 🔏
