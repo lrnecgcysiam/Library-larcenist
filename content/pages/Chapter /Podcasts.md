@@ -3,8 +3,8 @@ title: Getting Into Podcasting (2019 - Present)
 date: Last Modified 
 permalink: /podcasting/index.html
 eleventyNavigation:
-  key: 
-  order: 1
+  key: Getting Into Podcasting (2019 - Present) 
+  order: 0
   parent: Chapter 1
   title: Podcasting
 ---
