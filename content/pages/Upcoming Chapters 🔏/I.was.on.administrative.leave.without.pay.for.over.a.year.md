@@ -71,6 +71,7 @@ I didn't really see that happening because a lot of the jobs were very shaky and
 
 The arbitrator told my employer that him being out of work this long is unacceptable. That even if at this point he was actually not. If he actually did hit the person, and we came to that conclusion, that I would've still would've ordered him to have all his money back. It really wasn't that much money. It was $40,000. I mean to be out of work for a whole year and then to have bills to have to pay, you can't pay them. And the thing about it was that I didn't have work lined up. And this is why I think that having a business is so important, because if I would've had a business of my own where I could recoup those funds, having that problem wouldn't have sabotaged me.
 
+## Why owning your own business is so important.
 
 And this is why I think everybody in society should have, they should have some sort of business. A business that allows you as the business owner, you're still providing services to people, but you're not necessarily subjected to having to do things that you don't want to do. Because if you basically have it where you are working a job, and your job is the only thing that brings you income, and if you don't have the income, then you start doing things to anyone just to keep your job. And that's a dangerous person to have at your job. That's a dangerous person. You don't really want to have a person like that working for you because they're unpredictable. And they can lead you to some areas in your company that could have catastrophic effects.
 
