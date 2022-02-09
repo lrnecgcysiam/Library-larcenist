@@ -1,10 +1,10 @@
 ---
-title: Backpacking (2008) 🔏
+title: Backpacking (2008) ✍🏿
 date: Last Modified
 permalink: /upcoming-chapters/euro-trip-2008/index.html
 toc: true
 eleventyNavigation:
-  key: Backpacking (2008) 🔏
+  key: Backpacking (2008) ✍🏿
   order: 25
   parent: Upcoming Chapters 🔏
 ---

@@ -1,12 +1,11 @@
 ---
-title: Work with the Developmental Disabled
+title: Working with the Developmental Disabled
 date: Last Modified
 permalink: /Mental-Health-Field/index.html
 eleventyNavigation:
-  key: 
+  key:
   order: 1
-  parent: Chapter 1
-  title: Direct Care Service Provider
+  title: Working with the Developmental Disabled
 ---
 
 {% image "adaptive-aquatics-sbu-ucp_00.blurred.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" "400px" %}
