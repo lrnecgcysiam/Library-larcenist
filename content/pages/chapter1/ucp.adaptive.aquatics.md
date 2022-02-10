@@ -24,3 +24,7 @@ Long Island was pretty popular for housing individuals with disabilities the job
 
 One of the popular Job titles was Direct Care Support Specialist, another one was Month health Therapy Aide. As an aide you would provide support to the program's participants with washing, feeding, dressing, administering medication and teaching during the duration of your shift. You also were required to attend any social event they had scheduled. John was one of my favourite people to work with. He loved wrestling and Baseball and although he had a difficult speaking you learned how to understand him without him being able to fully speak.
 
+
+{% image "adaptive-aquatics-SBU-ucp_01.blurred.jpg" "Us and John with his Instructors UCP Adaptive Aquatics Ceremony 2007" "400px" %}
+
+## Us and John with his Program Instructors during the dinner ceremony
