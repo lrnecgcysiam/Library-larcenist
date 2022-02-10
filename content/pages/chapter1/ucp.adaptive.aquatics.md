@@ -3,8 +3,8 @@ title: Working with the Developmental Disabled
 date: Last Modified
 permalink: /upcoming-chapters/ucp-adaptive-aquatics/index.html
 eleventyNavigation:
-  key:
-  order: 1
+  key: Working with the Developmental Disabled
+  order: 16
   parent: Upcoming Chapters 🔏
 ---
 
