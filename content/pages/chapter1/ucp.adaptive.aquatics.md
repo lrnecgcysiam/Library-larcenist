@@ -1,11 +1,11 @@
 ---
 title: Working with the Developmental Disabled
 date: Last Modified
-permalink: /ucp-adaptive-aquatics/index.html
+permalink: /upcoming-chapters/ucp-adaptive-aquatics/index.html
 eleventyNavigation:
   key:
   order: 1
-  title: Working with the Developmental Disabled
+  parent: Upcoming Chapters 🔏
 ---
 
 {% image "adaptive-aquatics-sbu-ucp_00.blurred.jpg" "John, Jean and Me UCP Adaptive Aquatics 2007" "400px" %}
