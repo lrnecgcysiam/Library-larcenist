@@ -16,3 +16,5 @@ Working at UCP I was privileged to help people participants like John here atten
 
 
 The Adaptive Aquatics is a program that uses water as a medium for the rehabilitation of a great variety of muscular, neuromuscular and neurological problems. The sessions required John to improve his range of motion and strength and he really enjoyed being with his instructors. The session was held at the Stony Brook University Pool at night.
+
+## Working with people with disabilities full time in Suffolk County
