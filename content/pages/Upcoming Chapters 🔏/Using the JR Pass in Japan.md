@@ -8,4 +8,5 @@ eleventyNavigation:
   parent: Upcoming Chapters  
 ---
 
-## Coming Soon 🔏
+
+{% image "Japan.rail.passes.jpg" "The JR Passes I have collected over the years" "300px" %}
