@@ -10,6 +10,7 @@ eleventyNavigation:
 ---
 {% image "podcasting.JPG" "Podcasts I have created." "300px" %}
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Podcast - Intelligent Agents- Decision Architecture<a href="https://t.co/rkGsmajWBa">https://t.co/rkGsmajWBa</a> <a href="https://t.co/q0QEgVwkQi">pic.twitter.com/q0QEgVwkQi</a></p>&mdash; Decision Architecture (@DecisionsTheory) <a href="https://twitter.com/DecisionsTheory/status/1491990750107688963?ref_src=twsrc%5Etfw">February 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Podcasting was a way for me to focus on staying focused on the information I needed to consume in order to become more experience with what I wanted to become. 
 
