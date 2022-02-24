@@ -31,11 +31,14 @@ An advanced degree in Technology System Management could provide me with a way t
 
 From the standpoint of being an expert in this field, I am but a consumer of products such areas can create. (Computers, smartphones, smart watches, the English language, the Japanese language and Society ) I enjoy playing video games and in searching for more productive ways to learn new skills. As technology continues to improve across the board, I am always excited to find ways to use such technology to keep me motivated.
 
-    With this degree, I would be able to take graduate courses that will build the foundation for learning topics like computational social science, computer vision, computer science and engineering and game design to create a unique approach for solving real-world issues. Issues that I am interested in are helping others achieve their own goals by liberating them within the boundaries of their minds. To inspire the family and friends around me to attempt their own goals whether they are publicly or privately known.
+With this degree, I would be able to take graduate courses that will build the foundation for learning topics like computational social science, computer vision, computer science and engineering and game design to create a unique approach for solving real-world issues. Issues that I am interested in are helping others achieve their own goals by liberating them within the boundaries of their minds. To inspire the family and friends around me to attempt their own goals whether they are publicly or privately known.
 
-    I also want to do this to test my limitations. Using social media to document my journey for all to see and to find some use that could help others who can not afford to go to school or have the desire for structural learning. 
+I also want to do this to test my limitations. Using social media to document my journey for all to see and to find some use that could help others who can not afford to go to school or have the desire for structural learning. 
 
-    I would like to note that learning does not just take place in academia it is all around us. I believe that I have found a way to pursue higher education without the sacrifice of what is important around me (family, public contributions, and friends)
+I would like to note that learning does not just take place in academia it is all around us. I believe that I have found a way to pursue higher education without the sacrifice of what is important around me (family, public contributions, and friends)
+
+
+## Reflections of my college years....
 
 During my college years, I worked at several facilities that provided health services or direct care services. This type of care was common on Long Island, especially for students like myself. The hours were flexible, and the workload did not change much. I considered even to pursue a degree in Nursing.
 
