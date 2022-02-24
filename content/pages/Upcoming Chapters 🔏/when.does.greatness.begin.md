@@ -1,10 +1,10 @@
 ---
-title: Technology System Management (2018 - 2021) 🔏
+title: Greatness (2018 - 2021) 🔏
 date: Last Modified
 permalink: /upcoming-chapters/suny-stony-brook-tsm/index.html
 toc: true
 eleventyNavigation:
-  key: suny-tsm (2018 - 2021) 🔏
+  key: Greatness (2018 - 2021) 🔏
   order: 17
   parent: Upcoming Chapters 🔏
 ---
