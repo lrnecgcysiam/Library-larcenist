@@ -12,6 +12,10 @@ eleventyNavigation:
 
 ### How I survive my 400 day leave without pay (Feb 2013 - March 2014)
 
+
+[Official Documents {Hearing} ](https://www.evernote.com/shard/s345/sh/8f5cac33-b6bf-45a7-a7db-292329cb26c0/e3b5b50f925b08e3c68951582d203e61)
+
+[Official Judgement Results](https://www.evernote.com/shard/s345/sh/5472858d-4072-d6e9-c0fa-a53216a67e71/f7be4726bbbea55e51bb5de925c00740)
 The topic of this is the reflections of me being on administrative leave for 400 days. I used to work for the State of New York office for people with developmental disabilities in Long Island, DDSO, a public employer. From, I believe, February 6th, 2013, I was put on administrative leave with pay. And then on March 6th, 2013, I was received an NOD and put on administrative leave because of an allegation of physical abuse. They thought I was going to hit one of the clients, and that's not what happened, but this happened because there was this subtle or discreet, I don't know how to really say it, but it's more about people wanted me out of the job, but they can't get you out of the job because this was a state job.
 
 

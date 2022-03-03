@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 {% image "ps.20.brooklyn.jpg" "2nd Grade class,  in 1992" "400px" %}
 
-### When does greatnet begin? 
+### When does greatness begin? 
 
 Professionally I would like to pursue a more in-depth understanding of technologies that helps me communicate with others around me. Between my undergraduate study and professional career, I tried to maintain a level of knowledge for the task at hand.
 
