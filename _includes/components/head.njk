@@ -7,7 +7,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.emoji }}</text></svg>">
   
   <!--Open Graph -->
-  <meta property="og:title" content="Title of Article" />
+  <meta property="og:title" content="{{ renderData.title or title or site.name }}" />
   <meta property="og:description" content="Some description" />
   <meta property="og:image" content="my-image.jpg" />
   <meta property="og:url" content="https://test.com" />
